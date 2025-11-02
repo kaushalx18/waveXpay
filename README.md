@@ -78,7 +78,7 @@ To set up **WaveXPay** on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/wavexpay.git
+   git clone https://github.com/kaushalx18/waveXpay.git
    ```
 
 2. **Navigate into the project directory:**
